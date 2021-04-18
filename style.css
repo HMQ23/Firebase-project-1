@@ -75,6 +75,7 @@ form input {
   display: block;
   box-sizing: border-box;
   font-size: 18px;
+  font-family: "Ubuntu", sans-serif;
 }
 
 form input:focus {
